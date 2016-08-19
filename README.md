@@ -17,7 +17,7 @@ Implement a simple listing and detail showcase application using the following A
 
 Checkout [JSONPlaceholder](https://jsonplaceholder.typicode.com/) for more details.
 
-Make sure you use [RecyclerView](https://developer.android.com/reference/android/support/v7/widget/RecyclerView.html) for listing content, if you're not familiar with RecyclerView, you can have a look at [sample](https://github.com/googlesamples/android-RecyclerView) projects. Once loaded, the data (both listing and detail) should persist. Any persistence mechanism can be used, i.e., cache or database. 
+Once loaded, the data (both listing and detail) should persist. Any persistence mechanism can be used, i.e., cache or database. 
 
 Design as you wish.
 
@@ -31,7 +31,9 @@ Design as you wish.
 
 ### Bonus points
 
+* Use of 3rd party libraries like [Retrofit](http://square.github.io/retrofit/) or any ORM libraries would be a big plus point.
 * If you can use relevant 'Material Design' components in your application.
 * If you write readme file with screenshots and short description of your application.
+
 
 

@@ -13,7 +13,9 @@
 Implement a simple listing and detail showcase application using the following APIs:
 
 * For listing: https://jsonplaceholder.typicode.com/posts/
-* For details: https://jsonplaceholder.typicode.com/posts/1/comments
+* For details: https://jsonplaceholder.typicode.com/posts/{id}/comments
+
+Checkout [JSONPlaceholder](https://jsonplaceholder.typicode.com/) for more details.
 
 Make sure you use [RecyclerView](https://developer.android.com/reference/android/support/v7/widget/RecyclerView.html) for listing content, if you're not familiar with RecyclerView, you can have a look at [sample](https://github.com/googlesamples/android-RecyclerView) projects. Once loaded, the data (both listing and detail) should persist. Any persistence mechanism can be used, i.e., cache or database. 
 

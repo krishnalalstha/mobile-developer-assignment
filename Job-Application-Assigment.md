@@ -11,7 +11,7 @@
 
 ### Assignment
 
-Create a contact database using [Firebase](https://firebase.google.com/) or any other MBaaS platform (like [Back4App](https://www.back4app.com/), or [Backendless](https://backendless.com/)) that saves user’s full name, address, contact number and image. Your app should
+Create a contact database any MBaaS platform (like [Back4App](https://www.back4app.com/), or [Backendless](https://backendless.com/)) that saves user’s full name, address, contact number and image. Your app should
 * List existing contacts,
 * Show contact detail page,
 * Add/Edit new contact,

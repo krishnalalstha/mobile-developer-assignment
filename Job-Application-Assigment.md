@@ -6,8 +6,8 @@
 * Create a private repo called “yipl-android-assignment” in [bitbucket](https://bitbucket.org)
 * Do as instructed below
 * Push your code to the repo (make sure that you have multiple number of commits with proper messages) 
-* Invite bitbucket@yipl.com.np to your particular private repo
-* Invite bitbucket@yipl.com.np to your MBaaS platform
+* Invite rakeeb.rajbhandari@gmail.com to your particular private repo
+* Invite rakeeb.rajbhandari@gmail.com to your MBaaS platform
 
 ### Assignment
 

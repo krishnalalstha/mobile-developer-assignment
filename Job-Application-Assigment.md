@@ -3,11 +3,11 @@
 ### What you need to do?
 
 * Take a [git class in codeschool](https://www.codeschool.com/courses/try-git) if you haven’t already.
-* Create a private repo called “android-assignment” in [bitbucket](https://bitbucket.org)
+* Create a private repo called “evolve-android-assignment” in [bitbucket](https://bitbucket.org)
 * Do as instructed below
 * Push your code to the repo (make sure that you have multiple number of commits with proper messages) 
-* Invite rakeeb.rajbhandari@gmail.com to your particular private repo
-* Invite rakeeb.rajbhandari@gmail.com to your MBaaS platform
+* Invite careers@evolveasia.co to your particular private repo
+* Invite careers@evolveasia.co to your MBaaS platform
 
 ### Assignment
 

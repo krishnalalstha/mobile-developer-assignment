@@ -2,12 +2,12 @@
 
 ### What you need to do?
 
-* Take a [git class in codeschool](https://www.codeschool.com/courses/try-git) if you haven’t already.
-* Create a private repo called “android-assignment” in [bitbucket](https://bitbucket.org)
+* Take a git class in codeschool if you haven’t already.
+* Create a private repo called “yipl-android-assignment” in bitbucket
 * Do as instructed below
-* Push your code to the repo (make sure that you have multiple number of commits with proper messages) 
-* Invite rakeeb.rajbhandari@gmail.com to your particular private repo
-* Invite rakeeb.rajbhandari@gmail.com to your MBaaS platform
+* Push your code to the repo (make sure that you have multiple number of commits with proper messages)
+* Invite bitbucket@yipl.com.np to your particular private repo
+* Invite bitbucket@yipl.com.np to your MBaaS platform
 
 ### Assignment
 

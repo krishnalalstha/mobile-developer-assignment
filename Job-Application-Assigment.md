@@ -11,11 +11,13 @@
 
 ### Assignment
 
-Create a contact database any MBaaS platform (like [Back4App](https://www.back4app.com/), or [Backendless](https://backendless.com/)) that saves user’s full name, address, contact number and image. Your app should
+Create a contact management application using [Firestore](https://firebase.google.com/docs/firestore/) with a simple login using [Firbase Authentication](https://firebase.google.com/docs/auth/) that must include an email signup, along with atleast one Social Media platform of your choice. 
+
+Your app should let users:
+* Add/Edit new contact, 
 * List existing contacts,
 * Show contact detail page,
-* Add/Edit new contact,
-* Batch sync newly added contact information using a background service or a job scheduler.
+* Schedule a periodic check for any updates in the user's contact database via background service or a job scheduler.
 
 Once contact information is loaded (both listing and detail) data should persist. Any persistance mechnism can be used, i.e., cache or database.
 
@@ -24,7 +26,9 @@ Design as you wish, keeping material design principles in mind.
 ### Criteria for judgement
 
 * Object Oriented approach used in project.
-* Use of staple 3rd party Android libraries; [Retrofit](http://square.github.io/retrofit/), [RxJava](https://github.com/ReactiveX/RxJava), and [Dependency Injection](https://google.github.io/dagger/).
+* Strict use of **MVP** or **MVVM** architecture in your project.
+* It is **MANDATORY that you use these 3 Android libraries; [Retrofit](http://square.github.io/retrofit/), [RxJava](https://github.com/ReactiveX/RxJava), and [Dependency Injection](https://google.github.io/dagger/)**
+* **Basic Unit and Functional testing included.**
 * Proper naming conventions for XML and Java files.
 * Proper use of ViewGroup(s) and View(s).
 * Proper use of Android API(s).
@@ -34,7 +38,7 @@ Design as you wish, keeping material design principles in mind.
 ### Bonus points
 
 * Using Kotlin for development.
+* Integration with a CI platform.
 * Use of relevant design patterns.
-* Basic Unit and Functional testing included.
 * If you can use relevant 'Material Design' components in your application.
 * If you write readme file with screenshots and short description of your application.

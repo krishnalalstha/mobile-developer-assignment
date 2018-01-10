@@ -27,7 +27,7 @@ Design as you wish, keeping material design principles in mind.
 
 * Object Oriented approach used in project.
 * Strict use of **MVP** or **MVVM** architecture in your project.
-* It is **MANDATORY that you use these 3 Android libraries; [Retrofit](http://square.github.io/retrofit/), [RxJava](https://github.com/ReactiveX/RxJava), and [Dependency Injection](https://google.github.io/dagger/)**
+* It is **MANDATORY that you use these 2 Android libraries; [RxJava](https://github.com/ReactiveX/RxJava), and [Dependency Injection](https://google.github.io/dagger/)**
 * **Basic Unit and Functional testing included.**
 * Proper naming conventions for XML and Java files.
 * Proper use of ViewGroup(s) and View(s).

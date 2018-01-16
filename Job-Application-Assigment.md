@@ -29,7 +29,7 @@ Design as you wish, keeping material design principles in mind.
 * Strict use of **[Clean Architecure](https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html)** in your project.
 * It is **MANDATORY that you properly use these 2 Android libraries; [RxJava](https://github.com/ReactiveX/RxJava), and [Dependency Injection](https://google.github.io/dagger/)**; use [Retrofit](http://square.github.io/retrofit/) for network calls that are not provided by the Firebase SDK.
 * **Basic Unit and Functional testing included.**
-* Proper naming conventions for XML and Java files.
+* Proper naming conventions for XML and Java files; no hungerian notations in code please 😇
 * Proper use of ViewGroup(s) and View(s).
 * Proper use of Android API(s).
 * Project structure.

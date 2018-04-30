@@ -31,10 +31,10 @@ Design as you wish.
 
 ### Bonus points
 
-* Use of 3rd party libraries like [Retrofit](http://square.github.io/retrofit/) or for data persistent ROOM would be a big plus point.
+* Use of 3rd party libraries like [Retrofit](http://square.github.io/retrofit/) or for data persistent [ROOM](https://developer.android.com/topic/libraries/architecture/room) would be a big plus point.
 * If you can use relevant 'Material Design' components in your application.
 * If you write readme file with screenshots and short description of your application.
-* Implementation of android architecture component or any other clean code architecture would be a plus point but not compulsory.
+* Implementation of [android architecture component](https://developer.android.com/topic/libraries/architecture/) or any other clean code architecture would be a plus point but not compulsory.
 
 
 

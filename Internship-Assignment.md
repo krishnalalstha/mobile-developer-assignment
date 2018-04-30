@@ -6,7 +6,7 @@
 * Create a private repo called “yipl-android-assignment” in [bitbucket](https://bitbucket.org)
 * Do as instructed below
 * Push your code to the repo (make sure that you have multiple number of commits with proper messages) 
-* Invite internship-bitbucket@yipl.com.np to that particular private repo
+* Invite careers@evolveasia.co to that particular private repo
 
 ### Assignment
 
